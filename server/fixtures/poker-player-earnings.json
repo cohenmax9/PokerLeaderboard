@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Daniel Negreanu",
+    "country": "Canada",
+    "winnings": "$34,333,815"
+  },
+  {
+    "name": "Erik Seidel",
+    "country": "United States",
+    "winnings": "$33,198,641"
+  },
+  {
+    "name": "Daniel Colman",
+    "country": "United States",
+    "winnings": "$28,832,363"
+  },
+  {
+    "name": "Antonio Esfandiari",
+    "country": "United States",
+    "winnings": "$27,614,380"
+  },
+  {
+    "name": "Fedor Holz",
+    "country": "Germany",
+    "winnings": "$26,548,873"
+  },
+  {
+    "name": "Phil Ivey",
+    "country": "United States",
+    "winnings": "$23,856,035"
+  },
+  {
+    "name": "John Juanda",
+    "country": "Indonesia",
+    "winnings": " $23,804,108"
+  },
+  {
+    "name": "Scott Seiver",
+    "country": "United States",
+    "winnings": "$22,805,728"
+  },
+  {
+    "name": "Phil Hellmuth",
+    "country": "United States",
+    "winnings": "$21,977,980"
+  },
+  {
+    "name": "Brian Rast",
+    "country": "United States",
+    "winnings": "$20,652,381"
+  }
+]

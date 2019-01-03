@@ -1,5 +1,11 @@
 # Running the application
 
+## Clone the repo
+`git clone https://github.com/cohenmax9/PokerLeaderboard.git`
+
+## Install dependencies
+From the root directory, run: `yarn`
+
 ## Start the app
 
 From the root directory, run: `yarn start`

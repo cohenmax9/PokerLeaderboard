@@ -21,7 +21,7 @@ export default class PokerForm extends Component<Props, State> {
     winnings: ""
   };
 
-  handleInputChange = (field: string, value: string) => {
+  handleInputChange = (field: string, value: string | number) => {
     this.setState({ ...this.state, [field]: value });
   };
 
@@ -61,7 +61,7 @@ export default class PokerForm extends Component<Props, State> {
           name="winnings"
           type="number"
           onChange={event =>
-            this.handleInputChange("winnings", event.target.value)
+            this.handleInputChange("winnings", parseInt(event.target.value))
           }
         />
         <Button type="submit" color="primary" onClick={this.handleSubmit}>
